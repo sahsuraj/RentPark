@@ -1,0 +1,23 @@
+{
+  "data": {
+    "site_name": "RentPark",
+    "site_logo": "https://admin.sqemee.com/uploads/sites/71436f3a0ef8a031e267581af222615aa84343d7.png",
+    "site_icon": "https://admin.sqemee.com/uploads/sites/76ceda0912cbdc331fb490eac6d4f2b939d47ecb.png",
+    "currency": "$",
+    "currency_code": "aud",
+    "google_analytics": "",
+    "header_scripts": "",
+    "body_scripts": "",
+    "facebook_link": "",
+    "linkedin_link": "",
+    "twitter_link": "",
+    "google_plus_link": "",
+    "pinterest_link": "",
+    "demo_user_email": "user@rentcubo.com",
+    "demo_user_password": "123456",
+    "demo_provider_email": "provider@rentcubo.com",
+    "demo_provider_password": "123456",
+    "google_api_key": "AIzaSyBG86sClsNARVREi5srGLzmNoCKf4MvtVA",
+    "chat_socket_url": "https://admin.sqemee.com:3000/"
+  }
+}

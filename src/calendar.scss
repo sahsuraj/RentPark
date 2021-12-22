@@ -1,0 +1,43 @@
+$base-font-size: 12px;
+$title-font-size: 1.3em;
+
+$primary-color-dark: #e64a19;
+$primary-color: #338837;
+$primary-color-light: #018f95;
+$primary-color-text: #ffffff;
+$accent-color: #338837;
+$primary-text-color: #212121;
+$secondary-text-color: #757575;
+$divider-color: #e4e4e4;
+$today-bg-color: #fff9c4;
+
+@import "../node_modules/@y0c/react-datepicker/assets/styles/_mixin.scss";
+@import "../node_modules/@y0c/react-datepicker/assets/styles/app.scss";
+
+#test1 .calendar {
+  width: 90% !important;
+}
+#test1 .calendar__container {
+  width: 100%;
+}
+#test1 .calendar__day--selected {
+  text-decoration: line-through;
+  background: #b9b1ae;
+}
+
+#test1 .calendar__body--table th {
+  height: 60px;
+}
+
+#test1 .calendar__day {
+  vertical-align: middle;
+  padding: 40px;
+  font-size: 20px;
+  border: 1px solid #e5e5e5;
+}
+#test1 .calendar__head {
+  padding: 15px 6px;
+}
+.picker__container {
+  position: relative;
+}
